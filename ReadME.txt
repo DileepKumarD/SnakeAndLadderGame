@@ -15,3 +15,5 @@ Go to SnakeAndLadder\SnakeAndLadder
       GameHandler.cpp
       Player.h
       Player.cpp
+
+The deafult board is constructed using the same board shown in ProblemSolving.pdf
